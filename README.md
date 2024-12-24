@@ -5,9 +5,11 @@ I like creating stuff in Web3, specifically on Solana <p align="left">
   <img src="https://img.shields.io/badge/Solana-3A4CF6?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
 </p>
 
+🔹 🗺️ I am from the Netherlands
+🔹 🖐🏼 22 y/o
+🔹 Currently learning <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 
-
-CodeSublime TextHTML5
+Feel free to hmu for a collaboration!
 
 <p align="left">
   <!-- HTML -->
