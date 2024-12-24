@@ -33,5 +33,5 @@ Feel free to hmu for a collaboration!
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
 
-<img src="https://giphy.com/gifs/JvPOwCKHT5mjiKTSFT" alt="Animated GIF">
+<img src="https://giphy.com/gifs/JvPOwCKHT5mjiKTSFT.gif" alt="Animated GIF">
 
