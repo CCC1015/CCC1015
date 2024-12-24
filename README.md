@@ -1,12 +1,7 @@
 Hi My name is Basey
-Web Developer | Coder | GameDev | Warrior 🔥
-I'm a frontend wizard on a mission to sprinkle a bit of magic on the web. My love for tech started when I realised I could turn creative ideas into interactive digital experiences. Now, I get to do that every day! ✨💫
 
-🌍 I'm based in India.
-✉️ You can contact me at divyamsharmaworks@gmail.com
-🧠 I'm learning React.js.
-🤝 I'm open to collaborating on interesting projects.
-⚡ I'm secretly a vampire 🧛🏻‍♀️ and I know you won't tell anyone, right, RIGHT?
+
+
 
 
 <p align="left">
@@ -35,7 +30,7 @@ Socials
 Badges
 My GitHub Stats
 
-Divyamsharma-18's GitHub stats
+
 
 
 
