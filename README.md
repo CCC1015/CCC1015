@@ -9,6 +9,7 @@ I like creating stuff in Web3, specifically on  <img src="https://raw.githubuser
 🔹 Currently perfecting and learning <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JS" style="width: 15px; height: 15px;" />
  and <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" alt="JS" style="width: 15px; height: 15px;" />
 
+
 Feel free to hmu for a collaboration!
 
 <p align="left">
