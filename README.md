@@ -1,6 +1,6 @@
 Hi My name is Basey
 
-I like creating stuff in Web3, specifically on <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" style="width: 15px; height: 15px;" /></p>
+I like creating stuff in Web3, specifically on  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" style="width: 15px; height: 15px;" /></p>
 
 🔹 🗺️ I am from the Netherlands
 
