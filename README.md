@@ -33,5 +33,5 @@ Feel free to hmu for a collaboration!
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://gold-joint-warbler-618.mypinata.cloud/ipfs/bafybeicxwokk6qaqj2ig2bedqtgxkgwhkbs7cfte44vybl43la7twdf4dy">
+
 
