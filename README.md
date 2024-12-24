@@ -1,7 +1,6 @@
 Hi My name is Basey
 
-I like creating stuff in Web3, specifically on<p align="left"> <img src="https://img.shields.io/badge/Solana-3A4CF6?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
-</p>
+I like creating stuff in Web3, specifically on<p align="left"> <img src="https://img.shields.io/badge/Solana-3A4CF6?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></p>
 
 🔹 🗺️ I am from the Netherlands
 
