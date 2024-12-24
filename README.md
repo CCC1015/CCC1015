@@ -6,7 +6,7 @@ I like creating stuff in Web3, specifically on<p align="left"> <img src="https:/
 
 🔹 🖐🏼 22 y/o
 
-🔹 Currently learning <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+🔹 Currently perfecting and learning <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JS" /> and Rust
 
 Feel free to hmu for a collaboration!
 
