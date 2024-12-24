@@ -1,5 +1,10 @@
 Hi My name is Basey
 
+I like creating stuff in Web3, specifically on Solana <p align="left">
+  <!-- Solana -->
+  <img src="https://img.shields.io/badge/Solana-3A4CF6?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+</p>
+
 
 
 CodeSublime TextHTML5
@@ -24,14 +29,3 @@ CodeSublime TextHTML5
   <!-- Photoshop -->
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
-Socials
-
-
-Badges
-My GitHub Stats
-
-
-
-
-
-Top Languages
