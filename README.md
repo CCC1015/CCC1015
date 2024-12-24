@@ -6,7 +6,8 @@ I like creating stuff in Web3, specifically on<p align="left"> <img src="https:/
 
 🔹 🖐🏼 22 y/o
 
-🔹 Currently perfecting and learning <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JS" /> and Rust
+🔹 Currently perfecting and learning <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JS" style="width: 50px; height: 50px;" />
+ and Rust
 
 Feel free to hmu for a collaboration!
 
